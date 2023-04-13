@@ -1,0 +1,62 @@
+{
+
+  "GlobalConfiguration": {
+
+    "BaseUrl": "http://localhost:5071"
+
+  },
+
+  "Routes": [
+
+    {
+
+      "UpstreamPathTemplate": "/gateway/mobile",
+
+      "UpstreamHttpMethod": [ "Get" ],
+
+      "DownstreamPathTemplate": "/api/mobile",
+
+      "DownstreamScheme": "http",
+
+      "DownstreamHostAndPorts": [
+
+        {
+
+          "Host": "localhost",
+
+          "Port": 5176
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "UpstreamPathTemplate": "/gateway/mobile/{Id}",
+
+      "UpstreamHttpMethod": [ "Get" ],
+
+      "DownstreamPathTemplate": "/api/mobile/{Id}",
+
+      "DownstreamScheme": "http",
+
+      "DownstreamHostAndPorts": [
+
+        {
+
+          "Host": "localhost",
+
+          "Port": 5176
+
+        }
+
+      ]
+
+    }
+
+
+  ]
+
+}
