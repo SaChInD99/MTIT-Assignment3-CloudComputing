@@ -30,3 +30,35 @@ C:\Users\Sachin D\source\repos\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\refin
 C:\Users\Sachin D\source\repos\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.pdb
 C:\Users\Sachin D\source\repos\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.genruntimeconfig.cache
 C:\Users\Sachin D\source\repos\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\ref\MTIT.Manager.dll
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\appsettings.json
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\MTIT.Manager.exe
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\MTIT.Manager.deps.json
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\MTIT.Manager.runtimeconfig.json
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\MTIT.Manager.dll
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\MTIT.Manager.pdb
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.csproj.AssemblyReference.cache
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.AssemblyInfoInputs.cache
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.AssemblyInfo.cs
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\staticwebassets\msbuild.MTIT.Manager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\staticwebassets\msbuild.build.MTIT.Manager.props
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MTIT.Manager.props
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MTIT.Manager.props
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\scopedcss\bundle\MTIT.Manager.styles.css
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.csproj.CopyComplete
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.dll
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\refint\MTIT.Manager.dll
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.pdb
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\MTIT.Manager.genruntimeconfig.cache
+C:\Users\Sachin D\Desktop\New folder\MTIT-Assignment3-CloudComputing\MTIT.Supplier\MTIT.Manager\obj\Debug\net6.0\ref\MTIT.Manager.dll

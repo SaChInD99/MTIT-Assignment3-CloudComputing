@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FNbqN+DamxSUQnqhuNl7LQS9Fvx3iTTbbbjpZQEyQvxUJz9vrhwls0zXDkgy+UXE7cu92NCh8hK1qqT1AW7VUA==",
+  "dgSpecHash": "wMN4ut5CUZ219WMBBKe5K/P+xZP87HfN1CUKKShsDiHf7gvJHSt9wuJ3D0oLySK5wTgmmdEZhgOj8TZPFsTISA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Ocelote\\MTIT.Ocelote.csproj",
+  "projectFilePath": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Ocelote\\MTIT.Ocelote.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sachin D\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\Sachin D\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.1\\microsoft.aspnetcore.jsonpatch.6.0.1.nupkg.sha512",

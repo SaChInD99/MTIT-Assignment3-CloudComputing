@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JIqWunR/qiCHetq0htrLqUze8DVybWyUFEKDIGhXc87CHnyeEz9DJmI5pVY5ZK6gtieBnURf9p0EndxMoysTWQ==",
+  "dgSpecHash": "OF2M6UlaBGS4SY5Wrdk9N+mzlBrpXahudrMm5KGUkDAQNZGcaGlTOpiSb7LKbklBxCEyi7RdoSxjowVBw/4A0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Manager\\MTIT.Manager.csproj",
+  "projectFilePath": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Manager\\MTIT.Manager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sachin D\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Sachin D\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

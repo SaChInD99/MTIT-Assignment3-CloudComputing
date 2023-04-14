@@ -616,11 +616,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Ocelote\\MTIT.Ocelote.csproj",
+      "projectUniqueName": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Ocelote\\MTIT.Ocelote.csproj",
       "projectName": "MTIT.Ocelote",
-      "projectPath": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Ocelote\\MTIT.Ocelote.csproj",
+      "projectPath": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Ocelote\\MTIT.Ocelote.csproj",
       "packagesPath": "C:\\Users\\Sachin D\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Ocelote\\obj\\",
+      "outputPath": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Ocelote\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

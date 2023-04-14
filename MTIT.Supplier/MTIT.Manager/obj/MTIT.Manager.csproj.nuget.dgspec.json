@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Manager\\MTIT.Manager.csproj": {}
+    "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Manager\\MTIT.Manager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Manager\\MTIT.Manager.csproj": {
+    "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Manager\\MTIT.Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Manager\\MTIT.Manager.csproj",
+        "projectUniqueName": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Manager\\MTIT.Manager.csproj",
         "projectName": "MTIT.Manager",
-        "projectPath": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Manager\\MTIT.Manager.csproj",
+        "projectPath": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Manager\\MTIT.Manager.csproj",
         "packagesPath": "C:\\Users\\Sachin D\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Manager\\obj\\",
+        "outputPath": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Manager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

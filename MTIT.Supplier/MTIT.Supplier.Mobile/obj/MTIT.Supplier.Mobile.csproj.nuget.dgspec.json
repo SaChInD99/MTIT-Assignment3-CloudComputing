@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Supplier.Mobile\\MTIT.Supplier.Mobile.csproj": {}
+    "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Supplier.Mobile\\MTIT.Supplier.Mobile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Supplier.Mobile\\MTIT.Supplier.Mobile.csproj": {
+    "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Supplier.Mobile\\MTIT.Supplier.Mobile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Supplier.Mobile\\MTIT.Supplier.Mobile.csproj",
+        "projectUniqueName": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Supplier.Mobile\\MTIT.Supplier.Mobile.csproj",
         "projectName": "MTIT.Supplier.Mobile",
-        "projectPath": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Supplier.Mobile\\MTIT.Supplier.Mobile.csproj",
+        "projectPath": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Supplier.Mobile\\MTIT.Supplier.Mobile.csproj",
         "packagesPath": "C:\\Users\\Sachin D\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sachin D\\source\\repos\\MTIT.Supplier\\MTIT.Supplier.Mobile\\obj\\",
+        "outputPath": "C:\\Users\\Sachin D\\Desktop\\New folder\\MTIT-Assignment3-CloudComputing\\MTIT.Supplier\\MTIT.Supplier.Mobile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

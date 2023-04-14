@@ -54,9 +54,47 @@
 
       ]
 
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/mobile",
+
+      "UpstreamHttpMethod": [ "Post" ],
+
+      "DownstreamPathTemplate": "/api/mobile",
+
+      "DownstreamScheme": "https",
+
+      "DownstreamHostAndPorts": [
+
+        {
+          "Host": "localhost",
+
+          "Port": 5176
+
+        }
+
+      ]
+
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/mobile/{id}",
+
+      "UpstreamHttpMethod": [ "Get", "Delete" ],
+
+      "DownstreamPathTemplate": "/api/mobile/{id}",
+
+      "DownstreamScheme": "https",
+
+      "DownstreamHostAndPorts": [
+
+        {
+          "Host": "localhost",
+
+          "Port": 5001
+        }
+      ]
     }
-
-
   ]
+  
 
 }
