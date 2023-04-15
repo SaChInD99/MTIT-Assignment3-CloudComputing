@@ -12,7 +12,7 @@
 
       "UpstreamPathTemplate": "/gateway/mobile",
 
-      "UpstreamHttpMethod": [ "Get" ],
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
 
       "DownstreamPathTemplate": "/api/mobile",
 
@@ -24,7 +24,7 @@
 
           "Host": "localhost",
 
-          "Port": 5176
+          "Port": 5099
 
         }
 
@@ -36,7 +36,7 @@
 
       "UpstreamPathTemplate": "/gateway/mobile/{Id}",
 
-      "UpstreamHttpMethod": [ "Get" ],
+      "UpstreamHttpMethod": [ "Get", "Delete" ],
 
       "DownstreamPathTemplate": "/api/mobile/{Id}",
 
@@ -48,53 +48,64 @@
 
           "Host": "localhost",
 
-          "Port": 5176
+          "Port": 5099
 
         }
 
       ]
 
     },
+
     {
-      "UpstreamPathTemplate": "/gateway/mobile",
 
-      "UpstreamHttpMethod": [ "Post" ],
+      "UpstreamPathTemplate": "/gateway/manager",
 
-      "DownstreamPathTemplate": "/api/mobile",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
 
-      "DownstreamScheme": "https",
+      "DownstreamPathTemplate": "/api/manager",
+
+      "DownstreamScheme": "http",
 
       "DownstreamHostAndPorts": [
 
         {
+
           "Host": "localhost",
 
-          "Port": 5176
+          "Port": 5109
 
         }
 
       ]
 
     },
+
     {
-      "UpstreamPathTemplate": "/gateway/mobile/{id}",
+
+      "UpstreamPathTemplate": "/gateway/manager/{Id}",
 
       "UpstreamHttpMethod": [ "Get", "Delete" ],
 
-      "DownstreamPathTemplate": "/api/mobile/{id}",
+      "DownstreamPathTemplate": "/api/manager/{Id}",
 
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
 
       "DownstreamHostAndPorts": [
 
         {
+
           "Host": "localhost",
 
-          "Port": 5176
+          "Port": 5109
+
         }
+
       ]
+
     }
+
+
   ]
-  
 
 }
+
