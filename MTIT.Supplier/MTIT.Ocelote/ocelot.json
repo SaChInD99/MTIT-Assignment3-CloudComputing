@@ -102,8 +102,47 @@
 
       ]
 
-    }
+    },
 
+    {
+      "UpstreamPathTemplate": "/gateway/transport",
+
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+
+      "DownstreamPathTemplate": "/api/transport",
+
+      "DownstreamScheme": "http",
+
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+
+          "Port": 5176
+        }
+
+      ]
+
+    },
+
+    {
+      "UpstreamPathTemplate": "/gateway/transport/{Id}",
+
+      "UpstreamHttpMethod": [ "Get", "Delete" ],
+
+      "DownstreamPathTemplate": "/api/transport/{Id}",
+
+      "DownstreamScheme": "http",
+
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+
+          "Port": 5176
+        }
+
+      ]
+
+    }
 
   ]
 
